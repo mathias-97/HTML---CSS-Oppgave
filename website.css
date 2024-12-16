@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    background-color: burlywood;
+    padding-left: 70px;
+    padding-right: 70px;
+}
+
+h1 {
+    color: brown;
+}
+
+img {
+    align-items: center;
+    width: 700px;
+    height: 400px;
+}
+
+p {
+    font-size: medium;
+    margin: 30px;
+    padding: 5px 10px 5px 10px;
+}
